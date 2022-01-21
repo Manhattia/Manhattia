@@ -1,3 +1,3 @@
--Welcome to @Manhattia
+-Welcome to @Manhattia <br>
 -This is a new repository of my projects as well as readings, most of which are dedicated towards finance and mathematics
 -Expect updates weekly
